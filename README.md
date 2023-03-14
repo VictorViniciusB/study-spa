@@ -2,6 +2,8 @@
 
 <br>
 
+<img alt="Projeto envolvendo HTMl e CSS" src="./images/projectstudy.png" width="100%">
+
 ## 🖥️ Tecnologias
 
 Esse estudo foi desenvolvido com as seguintes tecnologias:
